@@ -1,1 +1,2 @@
-# pagination-app
+# React + TypeScript + Vite
+
