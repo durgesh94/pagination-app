@@ -7,4 +7,4 @@
 - Open url in browser: ```http://localhost:5173/```
 
 ## Fake api
-- URL: ```https://jsonplaceholder.typicode.com/posts```
+- URL: https://jsonplaceholder.typicode.com/posts
